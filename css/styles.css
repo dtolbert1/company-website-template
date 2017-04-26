@@ -1,0 +1,84 @@
+body{
+    font-family: 'Share Tech', sans-serif;
+    background: rgba(232,130,75,1);
+    background: -moz-linear-gradient(left, rgba(232,130,75,1) 0%, rgba(232,130,75,1) 29%, rgba(59,125,208,1) 74%, rgba(32,124,229,1) 81%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(232,130,75,1)), color-stop(29%, rgba(232,130,75,1)), color-stop(74%, rgba(59,125,208,1)), color-stop(81%, rgba(32,124,229,1)));
+    background: -webkit-linear-gradient(left, rgba(232,130,75,1) 0%, rgba(232,130,75,1) 29%, rgba(59,125,208,1) 74%, rgba(32,124,229,1) 81%);
+    background: -o-linear-gradient(left, rgba(232,130,75,1) 0%, rgba(232,130,75,1) 29%, rgba(59,125,208,1) 74%, rgba(32,124,229,1) 81%);
+    background: -ms-linear-gradient(left, rgba(232,130,75,1) 0%, rgba(232,130,75,1) 29%, rgba(59,125,208,1) 74%, rgba(32,124,229,1) 81%);
+    background: linear-gradient(to right, rgba(232,130,75,1) 0%, rgba(232,130,75,1) 29%, rgba(59,125,208,1) 74%, rgba(32,124,229,1) 81%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8824b', endColorstr='#207ce5', GradientType=1 );
+}
+
+.navbar-brand{
+    padding: 1px 10px;
+}
+
+.jumbotron{
+    background-image: url("../img/office.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.jumbotron h1{
+    text-align: center;
+}
+
+.jumbotron p{
+    text-align: center;
+}
+
+.about{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.about h1{
+    font-size: 40px;
+}
+
+.services{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.services h1{
+    margin-bottom: 25px;
+}
+
+.testimonials{
+    margin-bottom: 20px;
+}
+
+.testimonials h1{
+    text-align: center;
+}
+
+.review{
+    margin: 50px;
+    text-align: center;
+}
+
+.img-thumbnail{
+    margin-top: 20px;
+}
+
+.contact h1{
+    text-align: center;
+}
+
+.contact ul{
+    list-style-type: none;
+    text-align: center 
+}
+
+
+footer{
+    margin-top: 100px;
+}
+
+footer p{
+    text-align: center;
+}
+
